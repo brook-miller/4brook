@@ -16,7 +16,7 @@ export function Hero() {
       </div>
 
       {/* Content */}
-      <div className="max-w-4xl mx-auto px-6 -mt-20 md:-mt-24 relative z-10">
+      <div className="max-w-4xl mx-auto px-6 -mt-32 md:-mt-36 relative z-10">
         <div className="flex flex-col md:flex-row items-center md:items-end gap-6 md:gap-10">
           {/* Headshot */}
           <div className="w-36 h-36 md:w-44 md:h-44 rounded-full border-4 border-gray-950 bg-gray-800 overflow-hidden shrink-0 shadow-xl">
